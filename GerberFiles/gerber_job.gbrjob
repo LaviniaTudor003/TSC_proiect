@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-06T13:42:29Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB v21"
+        },
+        "Owner": "Lavinia Tudor <lavinia.tudor0603@stud.acs.upb.ro>",
+        "Size": {
+            "X": 170.2,
+            "Y": 111.200722
+        }
+    }
+}
