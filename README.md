@@ -2,6 +2,10 @@ e-book reader
 
  ![image](https://github.com/user-attachments/assets/c47a01ff-075d-4d2d-8fc8-f59388a6bad4)
 
+Bill of Materials (BOM)
+
+![image](https://github.com/user-attachments/assets/0e01b04d-baaf-4a38-97ce-78c1fccab934)
+
 
 Conexiuni și module hardware utilizate:
 •	USB-C Connector + ESD Protection
@@ -23,6 +27,7 @@ Poziționarea componentelor a fost gândită pentru:
 •	vizibilitatea e-paper-ului,
 •	montarea sigură a bateriei cu suport mecanic.
 (pe baza schemei si recomandarilor primite)
+![image](https://github.com/user-attachments/assets/82fb4581-66f3-4a63-aa71-735fee8700ba)
 
 PCB_2D:
  
