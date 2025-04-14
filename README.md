@@ -33,7 +33,8 @@ Poziționarea componentelor a fost gândită pentru:
 PCB_2D:
  
 
-![image](https://github.com/user-attachments/assets/ed454d86-7787-481e-b7f8-beae21b4c2fd)
+![Screenshot 2025-04-14 160136](https://github.com/user-attachments/assets/6044687e-4dcb-4780-9697-1aaa23781730)
+
 
 
 
@@ -41,5 +42,6 @@ PCB_2D:
 
 PCB_3D:
  
-![image](https://github.com/user-attachments/assets/aa73bfa8-694c-4fdc-b6ff-476533244ce6)
+![Screenshot 2025-04-14 125641](https://github.com/user-attachments/assets/18c22c55-3fa6-4fb3-b62a-33a25a4e5761)
+
 
