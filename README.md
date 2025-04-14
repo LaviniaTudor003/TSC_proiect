@@ -109,8 +109,21 @@ Poziționarea componentelor a fost gândită pentru:
  SPI: Utilizat pentru NOR Flash, E-Paper Display și Card SD.
  UART: Disponibil pentru debug sau extensii opționale.
  Wi-Fi & Bluetooth LE: Oferite de modulul ESP32-C6.
+# Pini ESP32-C6
 
-![image](https://github.com/user-attachments/assets/82fb4581-66f3-4a63-aa71-735fee8700ba)
+| Componenta / Rol                             | Pin ESP32-C6     | Motivație                                           |
+|---------------------------------------------|------------------|-----------------------------------------------------|
+| I2C SDA către BME688 și DS3231SN             | IO14 (SDA)       | Transmite date între microcontroler și dispozitivele I2C. |
+| I2C SCL către BME688 și DS3231SN             | IO15 (SCL)       | Coordonează sincronizarea comunicării I2C.          |
+| SPI MOSI către NOR Flash, E-Paper, SD Card   | IO6 (MOSI)       | Trimite informații din ESP32 către perifericele conectate pe SPI. |
+| SPI MISO din NOR Flash, E-Paper, SD Card     | IO7 (MISO)       | Primește date înapoi de la dispozitivele SPI.       |
+| SPI Clock                                     | IO8 (SCK)        | Oferă impulsurile de sincronizare pentru magistrala SPI. |
+| Chip Select NOR Flash                         | IO9 (CS1)        | Activează memoria NOR atunci când este utilizată.   |
+| Chip Select E-Paper Display                   | IO10 (CS2)       | Selectează modulul de afișaj E-Paper pentru transmiterea de date. |
+| Chip Select SD Card                           | IO11 (CS3)       | Indică faptul că SD Card-ul este dispozitivul activ pe SPI. |
+| UART RX, TX (debug)                           | IO16, IO17       | Permite trimiterea și recepționarea datelor pentru depanare și upload firmware. |
+| Reset / Boot control                          | IO21             | Folosit pentru repornirea manuală a sistemului sau inițierea modului de programare. |
+
 
 # PCB_2D:
  
