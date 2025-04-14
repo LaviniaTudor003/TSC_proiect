@@ -1,6 +1,7 @@
 e-book reader
 
- ![image](https://github.com/user-attachments/assets/c47a01ff-075d-4d2d-8fc8-f59388a6bad4)
+![image](https://github.com/user-attachments/assets/f0dca005-5e76-41f9-93e5-f9a191230d6c)
+
 
 Bill of Materials (BOM)
 
