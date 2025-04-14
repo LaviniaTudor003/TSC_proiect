@@ -1,14 +1,14 @@
-#e-book reader
+# e-book reader
 
 ![image](https://github.com/user-attachments/assets/f0dca005-5e76-41f9-93e5-f9a191230d6c)
 
 
-#Bill of Materials (BOM)
+# Bill of Materials (BOM)
 
 ![image](https://github.com/user-attachments/assets/0e01b04d-baaf-4a38-97ce-78c1fccab934)
 
 
-#Conexiuni și module hardware utilizate:
+# Conexiuni și module hardware utilizate:
 •	USB-C Connector + ESD Protection
 -	Intrare principală de alimentare și programare.
 •	LDO Voltage Regulator
@@ -29,7 +29,7 @@ Poziționarea componentelor a fost gândită pentru:
 •	montarea sigură a bateriei cu suport mecanic.
 (pe baza schemei si recomandarilor primite)
 
-#Functionalitate Hardware:
+# Functionalitate Hardware:
 **Componente, Module și Senzori**
 **Alimentare și Management Energie**
  Conector USB-C + Protecție ESD
@@ -84,14 +84,14 @@ Poziționarea componentelor a fost gândită pentru:
 
 ![image](https://github.com/user-attachments/assets/82fb4581-66f3-4a63-aa71-735fee8700ba)
 
-#PCB_2D:
+# PCB_2D:
  
 
 ![Screenshot 2025-04-14 160136](https://github.com/user-attachments/assets/6044687e-4dcb-4780-9697-1aaa23781730)
 
 
 
-#PCB_3D:
+# PCB_3D:
  
 ![Screenshot 2025-04-14 125641](https://github.com/user-attachments/assets/18c22c55-3fa6-4fb3-b62a-33a25a4e5761)
 
